@@ -1,6 +1,7 @@
 # CaseStatus
 
-https://sundsvall.atlassian.net/wiki/spaces/SK/pages/325484559/caseStatus
+![bild](https://user-images.githubusercontent.com/75727533/145235231-60614dcc-8754-4097-8477-574e09f252fd.png)
+
 
 ## Config
 
