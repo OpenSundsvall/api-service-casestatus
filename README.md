@@ -53,3 +53,6 @@ PRODUCTION<br>
 ## Kör applikationen lokalt
 
 För att köra applikationen lokalt krävs en .env-fil med miljövariabler. Applikationen startas med `node app.js` eller Nodemon.
+
+## 
+Copyright (c) 2021 Sundsvalls kommun
