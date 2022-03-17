@@ -1,6 +1,6 @@
 # CaseStatus
 
-![bild](https://user-images.githubusercontent.com/75727533/145235231-60614dcc-8754-4097-8477-574e09f252fd.png)
+![bild](https://user-images.githubusercontent.com/75727533/158754187-05e6f387-1c35-48a7-9601-aa0271048f1d.png)
 
 Observera: för att hantera statusar från Open ePlatform behöver ni även https://github.com/OpenSundsvall/caseStatus-cache
 ## Config
